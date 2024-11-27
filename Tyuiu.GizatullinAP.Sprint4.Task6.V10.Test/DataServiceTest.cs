@@ -1,10 +1,10 @@
+
 using Tyuiu.GizatullinAP.Sprint4.Task6.V10.Lib;
 
 namespace Tyuiu.GizatullinAP.Sprint4.Task6.V10.Test
 {
     [TestClass]
-    public class DataServiceTest
-    {
+    public class DataServiceTest { 
         [TestMethod]
         public void ValidCalculate()
         {

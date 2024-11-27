@@ -1,4 +1,4 @@
-﻿
+﻿using tyuiu.cources.programming.interfaces;
 namespace Tyuiu.GizatullinAP.Sprint4.Task6.V10.Lib
 {
     public class DataService 
