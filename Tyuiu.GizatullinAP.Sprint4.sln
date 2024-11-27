@@ -61,11 +61,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GizatullinAP.Sprint4.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task7", "Task7", "{F31581D5-85EE-4647-8DBA-6A5AD68E09A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GizatullinAP.Sprint4.Task7.V25.Lib", "Tyuiu.GizatullinAP.Sprint4.Task7.V25.Lib\Tyuiu.GizatullinAP.Sprint4.Task7.V25.Lib.csproj", "{902451FB-F8E0-413A-B652-ADF6BC313057}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GizatullinAP.Sprint4.Task7.V1.Lib", "Tyuiu.GizatullinAP.Sprint4.Task7.V25.Lib\Tyuiu.GizatullinAP.Sprint4.Task7.V1.Lib.csproj", "{902451FB-F8E0-413A-B652-ADF6BC313057}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GizatullinAP.Sprint4.Task7.V25.Test", "Tyuiu.GizatullinAP.Sprint4.Task7.V25.Test\Tyuiu.GizatullinAP.Sprint4.Task7.V25.Test.csproj", "{AAD328ED-C5FC-402F-B974-57FADCDBD0D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GizatullinAP.Sprint4.Task7.V1.Test", "Tyuiu.GizatullinAP.Sprint4.Task7.V25.Test\Tyuiu.GizatullinAP.Sprint4.Task7.V1.Test.csproj", "{AAD328ED-C5FC-402F-B974-57FADCDBD0D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GizatullinAP.Sprint4.Task7.V25", "Tyuiu.GizatullinAP.Sprint4.Task7.V25\Tyuiu.GizatullinAP.Sprint4.Task7.V25.csproj", "{B59492A8-53CB-4825-89F5-B79300E49DF4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GizatullinAP.Sprint4.Task7.V1", "Tyuiu.GizatullinAP.Sprint4.Task7.V25\Tyuiu.GizatullinAP.Sprint4.Task7.V1.csproj", "{B59492A8-53CB-4825-89F5-B79300E49DF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
